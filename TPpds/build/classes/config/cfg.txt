@@ -1,0 +1,21 @@
+Bateria
+9
+Open HH ,  OpenHH.wav  
+Closed HH , ClosedHH.wav
+Kick,kick.wav
+Ride,ride.wav
+Crash,crash.wav
+Tom Hi, t1.wav
+Tom Mid, t2.wav
+Tom Low, t3.wav
+Snare, snare.wav
+Baixo,9 
+C1, C1.wav
+C2, C2.wav
+C3, C#3.wav
+C4, C4.wav
+C5, C5.wav
+C6, C6.wav
+C7, C&.wav
+C8, C8.wav
+C9, C9.wav
